@@ -7,7 +7,7 @@ A simple flash-card application to help create flash card quickly.
   Back-end: Ruby, Ruby on Rails, Heroku.
 
 ## Project Links
-1. [Client Deployed Site](html link)
+1. [Client Deployed Site](https://nathanfee.github.io/client-flash-study/#/)
 
 2. [Client Repository](https://github.com/NathanFee/client-flash-study)
 
