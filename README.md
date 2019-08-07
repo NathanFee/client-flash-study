@@ -45,5 +45,5 @@ A simple flash-card application to help create flash card quickly.
 10. Troubleshoot/Debug
 11. Style
 
-## Reach Goals
+## Future Goals
   - Create a chrome extention to quickly create flash cards when on different sites.
