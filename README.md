@@ -1,8 +1,8 @@
 # Read Me
-A simple flash-card application to help create flash card quickly.
+A simple flash-card application to help create flash cards quickly.
 
 ## Technologies
-  Front-End: HTML, CSS, Bootstrap, JavaScipt, React, Axios.
+  Front-End: HTML, CSS, Bootstrap, JavaScipt, TypeScript, React, Axios.
 
   Back-end: Ruby, Ruby on Rails, Heroku.
 
